@@ -8,6 +8,12 @@
 body{
   background-color:black;     
 }
+/*Sizes*/
+img{
+      height:18rem;
+      weight:18rem;
+}
+
 /*POSITIONING:*/
 .container{
   display: flex;
