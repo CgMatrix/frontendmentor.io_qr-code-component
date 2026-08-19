@@ -28,6 +28,7 @@ body{
   align-items: center;
   padding-top:1rem;
   gap:1.5rem;
+  max-width: 20rem;
 }
 
 .QR-Code{
