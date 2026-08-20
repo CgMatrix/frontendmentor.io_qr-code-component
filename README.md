@@ -15,7 +15,7 @@
 Overview
 
 ## Links:
-- Live Site URL: [cgmatrix.github.io/frontendmentor.io_qr-code-component/](https://github.io)
+- Live Site URL: [cgmatrix.github.io/frontendmentor.io_qr-code-component/](https://cgmatrix.github.io/frontendmentor.io_qr-code-component/)
 
 ## Process:
 
