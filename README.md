@@ -15,16 +15,16 @@ Project &amp; QR Code component solution:
 
 ## Overview
 
-### Links
+### Links:
 - Live Site URL: [cgmatrix.github.io/frontendmentor.io_qr-code-component/](https://github.io)
 
-## Process
+## Process:
 
-### Tools used
+### Tools used:
 - Semantic HTML5
 - CSS
 
-### Key takeaways
+### Key takeaways:
 This project helped me improve & re-build skills by building a basic responsive webpage from a provided design using only HTML & CSS.
 
 ### Foundational skill development
