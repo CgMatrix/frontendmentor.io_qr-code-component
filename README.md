@@ -13,21 +13,21 @@ Project &amp; QR Code component solution:
 - [Developer](#developer)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
+Overview
 
-### Links:
+Links:
 - Live Site URL: [cgmatrix.github.io/frontendmentor.io_qr-code-component/](https://github.io)
 
-## Process:
+Process:
 
-### Tools used:
+Tools used:
 - Semantic HTML5
 - CSS
 
-### Key takeaways:
+Key takeaways:
 This project helped me improve & re-build skills by building a basic responsive webpage from a provided design using only HTML & CSS.
 
-### Foundational skill development
+Foundational skill development
 - Structural development for a webpage using semantic HTML.
 - Making use of a vector graphics image to fit all sizes required for a responsive layout.
 - Setting up font style & sizes.
@@ -35,16 +35,16 @@ This project helped me improve & re-build skills by building a basic responsive 
 - Making use of CSS & Flexbox for text & image alignment, spacing & positioning.
 - Using relative units (ex: rem, vh, & vw).
 
-### Future skill development
+Future skill development
 I would like to improve my current HTML & CSS skills by learning & practicing more advanced CSS tools like Sass & CSS animations through challenges or cloning websites.
 
-## Resources
+Resources
 - [Josh W. Comeau](https://www.joshwcomeau.com) - Reference for using CSS Flexbox & CSS Grid.
 - [Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse) - Tool for testing a website’s response.
 
-## Developer
+Developer
 - @CgMatrix
 
-## Acknowledgments
+Acknowledgments
 Big thanks to Frontend Mentor for providing the challenge & design with resources to improve & develop more skills.
 
