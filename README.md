@@ -43,7 +43,7 @@ I would like to improve my current HTML & CSS skills by learning & practicing mo
 - [Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse) - Tool for testing a website’s response.
 
 ## Developer
-- @CgMatrix
+- [CgMatrix](https://www.frontendmentor.io/profile/CgMatrix)
 
 ## Acknowledgments
 Big thanks to Frontend Mentor for providing the challenge & design with resources to improve & develop more skills.
