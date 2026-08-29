@@ -26,7 +26,7 @@ Tools used:
 ## Key takeaways:
 This project helped me improve & re-build skills by building a basic responsive webpage from a provided design using only HTML & CSS.
 
-Foundational skill development
+Foundational skill developments:
 - Structural development for a webpage using semantic HTML.
 - Making use of a vector graphics image to fit all sizes required for a responsive layout.
 - Setting up font style & sizes.
